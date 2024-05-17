@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SIS_SCHIS/1.0.0": {
+        "runtime": {
+          "SIS_SCHIS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SIS_SCHIS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

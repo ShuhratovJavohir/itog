@@ -1,0 +1,14 @@
+E:\OOP\itog\oop2\KomplecsNumber\bin\Debug\net8.0\KomplecsNumber.exe
+E:\OOP\itog\oop2\KomplecsNumber\bin\Debug\net8.0\KomplecsNumber.deps.json
+E:\OOP\itog\oop2\KomplecsNumber\bin\Debug\net8.0\KomplecsNumber.runtimeconfig.json
+E:\OOP\itog\oop2\KomplecsNumber\bin\Debug\net8.0\KomplecsNumber.dll
+E:\OOP\itog\oop2\KomplecsNumber\bin\Debug\net8.0\KomplecsNumber.pdb
+E:\OOP\itog\oop2\KomplecsNumber\obj\Debug\net8.0\KomplecsNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\oop2\KomplecsNumber\obj\Debug\net8.0\KomplecsNumber.AssemblyInfoInputs.cache
+E:\OOP\itog\oop2\KomplecsNumber\obj\Debug\net8.0\KomplecsNumber.AssemblyInfo.cs
+E:\OOP\itog\oop2\KomplecsNumber\obj\Debug\net8.0\KomplecsNumber.csproj.CoreCompileInputs.cache
+E:\OOP\itog\oop2\KomplecsNumber\obj\Debug\net8.0\KomplecsNumber.dll
+E:\OOP\itog\oop2\KomplecsNumber\obj\Debug\net8.0\refint\KomplecsNumber.dll
+E:\OOP\itog\oop2\KomplecsNumber\obj\Debug\net8.0\KomplecsNumber.pdb
+E:\OOP\itog\oop2\KomplecsNumber\obj\Debug\net8.0\KomplecsNumber.genruntimeconfig.cache
+E:\OOP\itog\oop2\KomplecsNumber\obj\Debug\net8.0\ref\KomplecsNumber.dll

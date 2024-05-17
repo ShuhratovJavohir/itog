@@ -1,0 +1,14 @@
+E:\OOP\itog\RESULT\bin\Debug\net8.0\RESULT.exe
+E:\OOP\itog\RESULT\bin\Debug\net8.0\RESULT.deps.json
+E:\OOP\itog\RESULT\bin\Debug\net8.0\RESULT.runtimeconfig.json
+E:\OOP\itog\RESULT\bin\Debug\net8.0\RESULT.dll
+E:\OOP\itog\RESULT\bin\Debug\net8.0\RESULT.pdb
+E:\OOP\itog\RESULT\obj\Debug\net8.0\RESULT.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\RESULT\obj\Debug\net8.0\RESULT.AssemblyInfoInputs.cache
+E:\OOP\itog\RESULT\obj\Debug\net8.0\RESULT.AssemblyInfo.cs
+E:\OOP\itog\RESULT\obj\Debug\net8.0\RESULT.csproj.CoreCompileInputs.cache
+E:\OOP\itog\RESULT\obj\Debug\net8.0\RESULT.dll
+E:\OOP\itog\RESULT\obj\Debug\net8.0\refint\RESULT.dll
+E:\OOP\itog\RESULT\obj\Debug\net8.0\RESULT.pdb
+E:\OOP\itog\RESULT\obj\Debug\net8.0\RESULT.genruntimeconfig.cache
+E:\OOP\itog\RESULT\obj\Debug\net8.0\ref\RESULT.dll

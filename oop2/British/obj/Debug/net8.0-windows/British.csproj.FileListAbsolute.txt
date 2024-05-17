@@ -1,0 +1,14 @@
+E:\OOP\itog\oop2\British\bin\Debug\net8.0-windows\British.exe
+E:\OOP\itog\oop2\British\bin\Debug\net8.0-windows\British.deps.json
+E:\OOP\itog\oop2\British\bin\Debug\net8.0-windows\British.runtimeconfig.json
+E:\OOP\itog\oop2\British\bin\Debug\net8.0-windows\British.dll
+E:\OOP\itog\oop2\British\bin\Debug\net8.0-windows\British.pdb
+E:\OOP\itog\oop2\British\obj\Debug\net8.0-windows\British.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\oop2\British\obj\Debug\net8.0-windows\British.AssemblyInfoInputs.cache
+E:\OOP\itog\oop2\British\obj\Debug\net8.0-windows\British.AssemblyInfo.cs
+E:\OOP\itog\oop2\British\obj\Debug\net8.0-windows\British.csproj.CoreCompileInputs.cache
+E:\OOP\itog\oop2\British\obj\Debug\net8.0-windows\British.dll
+E:\OOP\itog\oop2\British\obj\Debug\net8.0-windows\refint\British.dll
+E:\OOP\itog\oop2\British\obj\Debug\net8.0-windows\British.pdb
+E:\OOP\itog\oop2\British\obj\Debug\net8.0-windows\British.genruntimeconfig.cache
+E:\OOP\itog\oop2\British\obj\Debug\net8.0-windows\ref\British.dll

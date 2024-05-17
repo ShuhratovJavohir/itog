@@ -1,0 +1,14 @@
+E:\OOP\itog\TRЕUGOLNIK\bin\Debug\net8.0\TRЕUGOLNIK.exe
+E:\OOP\itog\TRЕUGOLNIK\bin\Debug\net8.0\TRЕUGOLNIK.deps.json
+E:\OOP\itog\TRЕUGOLNIK\bin\Debug\net8.0\TRЕUGOLNIK.runtimeconfig.json
+E:\OOP\itog\TRЕUGOLNIK\bin\Debug\net8.0\TRЕUGOLNIK.dll
+E:\OOP\itog\TRЕUGOLNIK\bin\Debug\net8.0\TRЕUGOLNIK.pdb
+E:\OOP\itog\TRЕUGOLNIK\obj\Debug\net8.0\TRЕUGOLNIK.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\TRЕUGOLNIK\obj\Debug\net8.0\TRЕUGOLNIK.AssemblyInfoInputs.cache
+E:\OOP\itog\TRЕUGOLNIK\obj\Debug\net8.0\TRЕUGOLNIK.AssemblyInfo.cs
+E:\OOP\itog\TRЕUGOLNIK\obj\Debug\net8.0\TRЕUGOLNIK.csproj.CoreCompileInputs.cache
+E:\OOP\itog\TRЕUGOLNIK\obj\Debug\net8.0\TRЕUGOLNIK.dll
+E:\OOP\itog\TRЕUGOLNIK\obj\Debug\net8.0\refint\TRЕUGOLNIK.dll
+E:\OOP\itog\TRЕUGOLNIK\obj\Debug\net8.0\TRЕUGOLNIK.pdb
+E:\OOP\itog\TRЕUGOLNIK\obj\Debug\net8.0\TRЕUGOLNIK.genruntimeconfig.cache
+E:\OOP\itog\TRЕUGOLNIK\obj\Debug\net8.0\ref\TRЕUGOLNIK.dll

@@ -1,0 +1,14 @@
+E:\OOP\itog\URAVNENIE\bin\Debug\net8.0\URAVNENIE.exe
+E:\OOP\itog\URAVNENIE\bin\Debug\net8.0\URAVNENIE.deps.json
+E:\OOP\itog\URAVNENIE\bin\Debug\net8.0\URAVNENIE.runtimeconfig.json
+E:\OOP\itog\URAVNENIE\bin\Debug\net8.0\URAVNENIE.dll
+E:\OOP\itog\URAVNENIE\bin\Debug\net8.0\URAVNENIE.pdb
+E:\OOP\itog\URAVNENIE\obj\Debug\net8.0\URAVNENIE.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\URAVNENIE\obj\Debug\net8.0\URAVNENIE.AssemblyInfoInputs.cache
+E:\OOP\itog\URAVNENIE\obj\Debug\net8.0\URAVNENIE.AssemblyInfo.cs
+E:\OOP\itog\URAVNENIE\obj\Debug\net8.0\URAVNENIE.csproj.CoreCompileInputs.cache
+E:\OOP\itog\URAVNENIE\obj\Debug\net8.0\URAVNENIE.dll
+E:\OOP\itog\URAVNENIE\obj\Debug\net8.0\refint\URAVNENIE.dll
+E:\OOP\itog\URAVNENIE\obj\Debug\net8.0\URAVNENIE.pdb
+E:\OOP\itog\URAVNENIE\obj\Debug\net8.0\URAVNENIE.genruntimeconfig.cache
+E:\OOP\itog\URAVNENIE\obj\Debug\net8.0\ref\URAVNENIE.dll

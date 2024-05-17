@@ -1,0 +1,14 @@
+E:\OOP\itog\SDVIG\bin\Debug\net8.0\SDVIG.exe
+E:\OOP\itog\SDVIG\bin\Debug\net8.0\SDVIG.deps.json
+E:\OOP\itog\SDVIG\bin\Debug\net8.0\SDVIG.runtimeconfig.json
+E:\OOP\itog\SDVIG\bin\Debug\net8.0\SDVIG.dll
+E:\OOP\itog\SDVIG\bin\Debug\net8.0\SDVIG.pdb
+E:\OOP\itog\SDVIG\obj\Debug\net8.0\SDVIG.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\SDVIG\obj\Debug\net8.0\SDVIG.AssemblyInfoInputs.cache
+E:\OOP\itog\SDVIG\obj\Debug\net8.0\SDVIG.AssemblyInfo.cs
+E:\OOP\itog\SDVIG\obj\Debug\net8.0\SDVIG.csproj.CoreCompileInputs.cache
+E:\OOP\itog\SDVIG\obj\Debug\net8.0\SDVIG.dll
+E:\OOP\itog\SDVIG\obj\Debug\net8.0\refint\SDVIG.dll
+E:\OOP\itog\SDVIG\obj\Debug\net8.0\SDVIG.pdb
+E:\OOP\itog\SDVIG\obj\Debug\net8.0\SDVIG.genruntimeconfig.cache
+E:\OOP\itog\SDVIG\obj\Debug\net8.0\ref\SDVIG.dll

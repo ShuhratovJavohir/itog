@@ -1,0 +1,14 @@
+E:\OOP\itog\MAT\obj\Debug\net8.0\MAT.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\MAT\obj\Debug\net8.0\MAT.AssemblyInfoInputs.cache
+E:\OOP\itog\MAT\obj\Debug\net8.0\MAT.AssemblyInfo.cs
+E:\OOP\itog\MAT\obj\Debug\net8.0\MAT.csproj.CoreCompileInputs.cache
+E:\OOP\itog\MAT\bin\Debug\net8.0\MAT.exe
+E:\OOP\itog\MAT\bin\Debug\net8.0\MAT.deps.json
+E:\OOP\itog\MAT\bin\Debug\net8.0\MAT.runtimeconfig.json
+E:\OOP\itog\MAT\bin\Debug\net8.0\MAT.dll
+E:\OOP\itog\MAT\bin\Debug\net8.0\MAT.pdb
+E:\OOP\itog\MAT\obj\Debug\net8.0\MAT.dll
+E:\OOP\itog\MAT\obj\Debug\net8.0\refint\MAT.dll
+E:\OOP\itog\MAT\obj\Debug\net8.0\MAT.pdb
+E:\OOP\itog\MAT\obj\Debug\net8.0\MAT.genruntimeconfig.cache
+E:\OOP\itog\MAT\obj\Debug\net8.0\ref\MAT.dll

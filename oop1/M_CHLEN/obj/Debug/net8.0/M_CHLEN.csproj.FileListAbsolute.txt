@@ -1,0 +1,14 @@
+E:\OOP\itog\M_CHLEN\obj\Debug\net8.0\M_CHLEN.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\M_CHLEN\obj\Debug\net8.0\M_CHLEN.AssemblyInfoInputs.cache
+E:\OOP\itog\M_CHLEN\obj\Debug\net8.0\M_CHLEN.AssemblyInfo.cs
+E:\OOP\itog\M_CHLEN\obj\Debug\net8.0\M_CHLEN.csproj.CoreCompileInputs.cache
+E:\OOP\itog\M_CHLEN\bin\Debug\net8.0\M_CHLEN.exe
+E:\OOP\itog\M_CHLEN\bin\Debug\net8.0\M_CHLEN.deps.json
+E:\OOP\itog\M_CHLEN\bin\Debug\net8.0\M_CHLEN.runtimeconfig.json
+E:\OOP\itog\M_CHLEN\bin\Debug\net8.0\M_CHLEN.dll
+E:\OOP\itog\M_CHLEN\bin\Debug\net8.0\M_CHLEN.pdb
+E:\OOP\itog\M_CHLEN\obj\Debug\net8.0\M_CHLEN.dll
+E:\OOP\itog\M_CHLEN\obj\Debug\net8.0\refint\M_CHLEN.dll
+E:\OOP\itog\M_CHLEN\obj\Debug\net8.0\M_CHLEN.pdb
+E:\OOP\itog\M_CHLEN\obj\Debug\net8.0\M_CHLEN.genruntimeconfig.cache
+E:\OOP\itog\M_CHLEN\obj\Debug\net8.0\ref\M_CHLEN.dll

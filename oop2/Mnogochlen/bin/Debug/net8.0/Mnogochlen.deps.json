@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mnogochlen/1.0.0": {
+        "runtime": {
+          "Mnogochlen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mnogochlen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

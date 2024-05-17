@@ -1,0 +1,14 @@
+E:\OOP\itog\VECTOR\bin\Debug\net8.0\VECTOR.exe
+E:\OOP\itog\VECTOR\bin\Debug\net8.0\VECTOR.deps.json
+E:\OOP\itog\VECTOR\bin\Debug\net8.0\VECTOR.runtimeconfig.json
+E:\OOP\itog\VECTOR\bin\Debug\net8.0\VECTOR.dll
+E:\OOP\itog\VECTOR\bin\Debug\net8.0\VECTOR.pdb
+E:\OOP\itog\VECTOR\obj\Debug\net8.0\VECTOR.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\VECTOR\obj\Debug\net8.0\VECTOR.AssemblyInfoInputs.cache
+E:\OOP\itog\VECTOR\obj\Debug\net8.0\VECTOR.AssemblyInfo.cs
+E:\OOP\itog\VECTOR\obj\Debug\net8.0\VECTOR.csproj.CoreCompileInputs.cache
+E:\OOP\itog\VECTOR\obj\Debug\net8.0\VECTOR.dll
+E:\OOP\itog\VECTOR\obj\Debug\net8.0\refint\VECTOR.dll
+E:\OOP\itog\VECTOR\obj\Debug\net8.0\VECTOR.pdb
+E:\OOP\itog\VECTOR\obj\Debug\net8.0\VECTOR.genruntimeconfig.cache
+E:\OOP\itog\VECTOR\obj\Debug\net8.0\ref\VECTOR.dll

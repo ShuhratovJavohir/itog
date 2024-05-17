@@ -1,0 +1,16 @@
+E:\OOP\itog\oop2\usa\bin\Debug\net8.0-windows\usa.exe
+E:\OOP\itog\oop2\usa\bin\Debug\net8.0-windows\usa.deps.json
+E:\OOP\itog\oop2\usa\bin\Debug\net8.0-windows\usa.runtimeconfig.json
+E:\OOP\itog\oop2\usa\bin\Debug\net8.0-windows\usa.dll
+E:\OOP\itog\oop2\usa\bin\Debug\net8.0-windows\usa.pdb
+E:\OOP\itog\oop2\usa\obj\Debug\net8.0-windows\usa.Form1.resources
+E:\OOP\itog\oop2\usa\obj\Debug\net8.0-windows\usa.csproj.GenerateResource.cache
+E:\OOP\itog\oop2\usa\obj\Debug\net8.0-windows\usa.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\oop2\usa\obj\Debug\net8.0-windows\usa.AssemblyInfoInputs.cache
+E:\OOP\itog\oop2\usa\obj\Debug\net8.0-windows\usa.AssemblyInfo.cs
+E:\OOP\itog\oop2\usa\obj\Debug\net8.0-windows\usa.csproj.CoreCompileInputs.cache
+E:\OOP\itog\oop2\usa\obj\Debug\net8.0-windows\usa.dll
+E:\OOP\itog\oop2\usa\obj\Debug\net8.0-windows\refint\usa.dll
+E:\OOP\itog\oop2\usa\obj\Debug\net8.0-windows\usa.pdb
+E:\OOP\itog\oop2\usa\obj\Debug\net8.0-windows\usa.genruntimeconfig.cache
+E:\OOP\itog\oop2\usa\obj\Debug\net8.0-windows\ref\usa.dll

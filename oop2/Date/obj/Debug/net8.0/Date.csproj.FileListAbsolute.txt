@@ -1,0 +1,14 @@
+E:\OOP\itog\oop2\Date\bin\Debug\net8.0\Date.exe
+E:\OOP\itog\oop2\Date\bin\Debug\net8.0\Date.deps.json
+E:\OOP\itog\oop2\Date\bin\Debug\net8.0\Date.runtimeconfig.json
+E:\OOP\itog\oop2\Date\bin\Debug\net8.0\Date.dll
+E:\OOP\itog\oop2\Date\bin\Debug\net8.0\Date.pdb
+E:\OOP\itog\oop2\Date\obj\Debug\net8.0\Date.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\oop2\Date\obj\Debug\net8.0\Date.AssemblyInfoInputs.cache
+E:\OOP\itog\oop2\Date\obj\Debug\net8.0\Date.AssemblyInfo.cs
+E:\OOP\itog\oop2\Date\obj\Debug\net8.0\Date.csproj.CoreCompileInputs.cache
+E:\OOP\itog\oop2\Date\obj\Debug\net8.0\Date.dll
+E:\OOP\itog\oop2\Date\obj\Debug\net8.0\refint\Date.dll
+E:\OOP\itog\oop2\Date\obj\Debug\net8.0\Date.pdb
+E:\OOP\itog\oop2\Date\obj\Debug\net8.0\Date.genruntimeconfig.cache
+E:\OOP\itog\oop2\Date\obj\Debug\net8.0\ref\Date.dll

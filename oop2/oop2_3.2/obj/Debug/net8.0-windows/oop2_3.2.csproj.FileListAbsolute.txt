@@ -1,0 +1,14 @@
+E:\OOP\itog\oop2\oop2_3.2\bin\Debug\net8.0-windows\oop2_3.2.exe
+E:\OOP\itog\oop2\oop2_3.2\bin\Debug\net8.0-windows\oop2_3.2.deps.json
+E:\OOP\itog\oop2\oop2_3.2\bin\Debug\net8.0-windows\oop2_3.2.runtimeconfig.json
+E:\OOP\itog\oop2\oop2_3.2\bin\Debug\net8.0-windows\oop2_3.2.dll
+E:\OOP\itog\oop2\oop2_3.2\bin\Debug\net8.0-windows\oop2_3.2.pdb
+E:\OOP\itog\oop2\oop2_3.2\obj\Debug\net8.0-windows\oop2_3.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\oop2\oop2_3.2\obj\Debug\net8.0-windows\oop2_3.2.AssemblyInfoInputs.cache
+E:\OOP\itog\oop2\oop2_3.2\obj\Debug\net8.0-windows\oop2_3.2.AssemblyInfo.cs
+E:\OOP\itog\oop2\oop2_3.2\obj\Debug\net8.0-windows\oop2_3.2.csproj.CoreCompileInputs.cache
+E:\OOP\itog\oop2\oop2_3.2\obj\Debug\net8.0-windows\oop2_3.2.dll
+E:\OOP\itog\oop2\oop2_3.2\obj\Debug\net8.0-windows\refint\oop2_3.2.dll
+E:\OOP\itog\oop2\oop2_3.2\obj\Debug\net8.0-windows\oop2_3.2.pdb
+E:\OOP\itog\oop2\oop2_3.2\obj\Debug\net8.0-windows\oop2_3.2.genruntimeconfig.cache
+E:\OOP\itog\oop2\oop2_3.2\obj\Debug\net8.0-windows\ref\oop2_3.2.dll

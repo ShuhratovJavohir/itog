@@ -1,0 +1,14 @@
+E:\OOP\itog\ReadWrite\bin\Debug\net8.0\ReadWrite.exe
+E:\OOP\itog\ReadWrite\bin\Debug\net8.0\ReadWrite.deps.json
+E:\OOP\itog\ReadWrite\bin\Debug\net8.0\ReadWrite.runtimeconfig.json
+E:\OOP\itog\ReadWrite\bin\Debug\net8.0\ReadWrite.dll
+E:\OOP\itog\ReadWrite\bin\Debug\net8.0\ReadWrite.pdb
+E:\OOP\itog\ReadWrite\obj\Debug\net8.0\ReadWrite.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\ReadWrite\obj\Debug\net8.0\ReadWrite.AssemblyInfoInputs.cache
+E:\OOP\itog\ReadWrite\obj\Debug\net8.0\ReadWrite.AssemblyInfo.cs
+E:\OOP\itog\ReadWrite\obj\Debug\net8.0\ReadWrite.csproj.CoreCompileInputs.cache
+E:\OOP\itog\ReadWrite\obj\Debug\net8.0\ReadWrite.dll
+E:\OOP\itog\ReadWrite\obj\Debug\net8.0\refint\ReadWrite.dll
+E:\OOP\itog\ReadWrite\obj\Debug\net8.0\ReadWrite.pdb
+E:\OOP\itog\ReadWrite\obj\Debug\net8.0\ReadWrite.genruntimeconfig.cache
+E:\OOP\itog\ReadWrite\obj\Debug\net8.0\ref\ReadWrite.dll

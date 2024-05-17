@@ -1,0 +1,14 @@
+E:\OOP\itog\InterfaceAbstructClass\bin\Debug\net8.0\InterfaceAbstructClass.exe
+E:\OOP\itog\InterfaceAbstructClass\bin\Debug\net8.0\InterfaceAbstructClass.deps.json
+E:\OOP\itog\InterfaceAbstructClass\bin\Debug\net8.0\InterfaceAbstructClass.runtimeconfig.json
+E:\OOP\itog\InterfaceAbstructClass\bin\Debug\net8.0\InterfaceAbstructClass.dll
+E:\OOP\itog\InterfaceAbstructClass\bin\Debug\net8.0\InterfaceAbstructClass.pdb
+E:\OOP\itog\InterfaceAbstructClass\obj\Debug\net8.0\InterfaceAbstructClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\InterfaceAbstructClass\obj\Debug\net8.0\InterfaceAbstructClass.AssemblyInfoInputs.cache
+E:\OOP\itog\InterfaceAbstructClass\obj\Debug\net8.0\InterfaceAbstructClass.AssemblyInfo.cs
+E:\OOP\itog\InterfaceAbstructClass\obj\Debug\net8.0\InterfaceAbstructClass.csproj.CoreCompileInputs.cache
+E:\OOP\itog\InterfaceAbstructClass\obj\Debug\net8.0\InterfaceAbstructClass.dll
+E:\OOP\itog\InterfaceAbstructClass\obj\Debug\net8.0\refint\InterfaceAbstructClass.dll
+E:\OOP\itog\InterfaceAbstructClass\obj\Debug\net8.0\InterfaceAbstructClass.pdb
+E:\OOP\itog\InterfaceAbstructClass\obj\Debug\net8.0\InterfaceAbstructClass.genruntimeconfig.cache
+E:\OOP\itog\InterfaceAbstructClass\obj\Debug\net8.0\ref\InterfaceAbstructClass.dll

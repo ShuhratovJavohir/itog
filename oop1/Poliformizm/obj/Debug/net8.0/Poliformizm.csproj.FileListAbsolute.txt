@@ -1,0 +1,14 @@
+E:\OOP\itog\Poliformizm\bin\Debug\net8.0\Poliformizm.exe
+E:\OOP\itog\Poliformizm\bin\Debug\net8.0\Poliformizm.deps.json
+E:\OOP\itog\Poliformizm\bin\Debug\net8.0\Poliformizm.runtimeconfig.json
+E:\OOP\itog\Poliformizm\bin\Debug\net8.0\Poliformizm.dll
+E:\OOP\itog\Poliformizm\bin\Debug\net8.0\Poliformizm.pdb
+E:\OOP\itog\Poliformizm\obj\Debug\net8.0\Poliformizm.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\Poliformizm\obj\Debug\net8.0\Poliformizm.AssemblyInfoInputs.cache
+E:\OOP\itog\Poliformizm\obj\Debug\net8.0\Poliformizm.AssemblyInfo.cs
+E:\OOP\itog\Poliformizm\obj\Debug\net8.0\Poliformizm.csproj.CoreCompileInputs.cache
+E:\OOP\itog\Poliformizm\obj\Debug\net8.0\Poliformizm.dll
+E:\OOP\itog\Poliformizm\obj\Debug\net8.0\refint\Poliformizm.dll
+E:\OOP\itog\Poliformizm\obj\Debug\net8.0\Poliformizm.pdb
+E:\OOP\itog\Poliformizm\obj\Debug\net8.0\Poliformizm.genruntimeconfig.cache
+E:\OOP\itog\Poliformizm\obj\Debug\net8.0\ref\Poliformizm.dll

@@ -1,0 +1,16 @@
+E:\OOP\itog\Uzb\bin\Debug\net8.0-windows\Uzb.exe
+E:\OOP\itog\Uzb\bin\Debug\net8.0-windows\Uzb.deps.json
+E:\OOP\itog\Uzb\bin\Debug\net8.0-windows\Uzb.runtimeconfig.json
+E:\OOP\itog\Uzb\bin\Debug\net8.0-windows\Uzb.dll
+E:\OOP\itog\Uzb\bin\Debug\net8.0-windows\Uzb.pdb
+E:\OOP\itog\Uzb\obj\Debug\net8.0-windows\Uzb.Form1.resources
+E:\OOP\itog\Uzb\obj\Debug\net8.0-windows\Uzb.csproj.GenerateResource.cache
+E:\OOP\itog\Uzb\obj\Debug\net8.0-windows\Uzb.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\Uzb\obj\Debug\net8.0-windows\Uzb.AssemblyInfoInputs.cache
+E:\OOP\itog\Uzb\obj\Debug\net8.0-windows\Uzb.AssemblyInfo.cs
+E:\OOP\itog\Uzb\obj\Debug\net8.0-windows\Uzb.csproj.CoreCompileInputs.cache
+E:\OOP\itog\Uzb\obj\Debug\net8.0-windows\Uzb.dll
+E:\OOP\itog\Uzb\obj\Debug\net8.0-windows\refint\Uzb.dll
+E:\OOP\itog\Uzb\obj\Debug\net8.0-windows\Uzb.pdb
+E:\OOP\itog\Uzb\obj\Debug\net8.0-windows\Uzb.genruntimeconfig.cache
+E:\OOP\itog\Uzb\obj\Debug\net8.0-windows\ref\Uzb.dll

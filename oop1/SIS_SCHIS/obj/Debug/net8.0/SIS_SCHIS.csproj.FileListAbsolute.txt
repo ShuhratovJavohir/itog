@@ -1,0 +1,14 @@
+E:\OOP\itog\SIS_SCHIS\bin\Debug\net8.0\SIS_SCHIS.exe
+E:\OOP\itog\SIS_SCHIS\bin\Debug\net8.0\SIS_SCHIS.deps.json
+E:\OOP\itog\SIS_SCHIS\bin\Debug\net8.0\SIS_SCHIS.runtimeconfig.json
+E:\OOP\itog\SIS_SCHIS\bin\Debug\net8.0\SIS_SCHIS.dll
+E:\OOP\itog\SIS_SCHIS\bin\Debug\net8.0\SIS_SCHIS.pdb
+E:\OOP\itog\SIS_SCHIS\obj\Debug\net8.0\SIS_SCHIS.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\SIS_SCHIS\obj\Debug\net8.0\SIS_SCHIS.AssemblyInfoInputs.cache
+E:\OOP\itog\SIS_SCHIS\obj\Debug\net8.0\SIS_SCHIS.AssemblyInfo.cs
+E:\OOP\itog\SIS_SCHIS\obj\Debug\net8.0\SIS_SCHIS.csproj.CoreCompileInputs.cache
+E:\OOP\itog\SIS_SCHIS\obj\Debug\net8.0\SIS_SCHIS.dll
+E:\OOP\itog\SIS_SCHIS\obj\Debug\net8.0\refint\SIS_SCHIS.dll
+E:\OOP\itog\SIS_SCHIS\obj\Debug\net8.0\SIS_SCHIS.pdb
+E:\OOP\itog\SIS_SCHIS\obj\Debug\net8.0\SIS_SCHIS.genruntimeconfig.cache
+E:\OOP\itog\SIS_SCHIS\obj\Debug\net8.0\ref\SIS_SCHIS.dll

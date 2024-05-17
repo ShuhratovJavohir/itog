@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poliformizm", "Poliformizm.csproj", "{B2A64AAA-9C33-4B01-9CE5-24DE7181F41A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A64AAA-9C33-4B01-9CE5-24DE7181F41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A64AAA-9C33-4B01-9CE5-24DE7181F41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A64AAA-9C33-4B01-9CE5-24DE7181F41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A64AAA-9C33-4B01-9CE5-24DE7181F41A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {217C3202-779A-40E4-83EC-871E11B3C901}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+E:\OOP\itog\oop2\Time\bin\Debug\net8.0\Time.exe
+E:\OOP\itog\oop2\Time\bin\Debug\net8.0\Time.deps.json
+E:\OOP\itog\oop2\Time\bin\Debug\net8.0\Time.runtimeconfig.json
+E:\OOP\itog\oop2\Time\bin\Debug\net8.0\Time.dll
+E:\OOP\itog\oop2\Time\bin\Debug\net8.0\Time.pdb
+E:\OOP\itog\oop2\Time\obj\Debug\net8.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\oop2\Time\obj\Debug\net8.0\Time.AssemblyInfoInputs.cache
+E:\OOP\itog\oop2\Time\obj\Debug\net8.0\Time.AssemblyInfo.cs
+E:\OOP\itog\oop2\Time\obj\Debug\net8.0\Time.csproj.CoreCompileInputs.cache
+E:\OOP\itog\oop2\Time\obj\Debug\net8.0\Time.dll
+E:\OOP\itog\oop2\Time\obj\Debug\net8.0\refint\Time.dll
+E:\OOP\itog\oop2\Time\obj\Debug\net8.0\Time.pdb
+E:\OOP\itog\oop2\Time\obj\Debug\net8.0\Time.genruntimeconfig.cache
+E:\OOP\itog\oop2\Time\obj\Debug\net8.0\ref\Time.dll

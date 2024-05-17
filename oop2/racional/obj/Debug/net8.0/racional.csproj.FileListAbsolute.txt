@@ -1,0 +1,14 @@
+E:\OOP\itog\oop2\racional\bin\Debug\net8.0\racional.exe
+E:\OOP\itog\oop2\racional\bin\Debug\net8.0\racional.deps.json
+E:\OOP\itog\oop2\racional\bin\Debug\net8.0\racional.runtimeconfig.json
+E:\OOP\itog\oop2\racional\bin\Debug\net8.0\racional.dll
+E:\OOP\itog\oop2\racional\bin\Debug\net8.0\racional.pdb
+E:\OOP\itog\oop2\racional\obj\Debug\net8.0\racional.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\oop2\racional\obj\Debug\net8.0\racional.AssemblyInfoInputs.cache
+E:\OOP\itog\oop2\racional\obj\Debug\net8.0\racional.AssemblyInfo.cs
+E:\OOP\itog\oop2\racional\obj\Debug\net8.0\racional.csproj.CoreCompileInputs.cache
+E:\OOP\itog\oop2\racional\obj\Debug\net8.0\racional.dll
+E:\OOP\itog\oop2\racional\obj\Debug\net8.0\refint\racional.dll
+E:\OOP\itog\oop2\racional\obj\Debug\net8.0\racional.pdb
+E:\OOP\itog\oop2\racional\obj\Debug\net8.0\racional.genruntimeconfig.cache
+E:\OOP\itog\oop2\racional\obj\Debug\net8.0\ref\racional.dll

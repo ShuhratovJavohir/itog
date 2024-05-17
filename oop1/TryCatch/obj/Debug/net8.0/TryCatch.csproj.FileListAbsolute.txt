@@ -1,0 +1,14 @@
+E:\OOP\itog\TryCatch\bin\Debug\net8.0\TryCatch.exe
+E:\OOP\itog\TryCatch\bin\Debug\net8.0\TryCatch.deps.json
+E:\OOP\itog\TryCatch\bin\Debug\net8.0\TryCatch.runtimeconfig.json
+E:\OOP\itog\TryCatch\bin\Debug\net8.0\TryCatch.dll
+E:\OOP\itog\TryCatch\bin\Debug\net8.0\TryCatch.pdb
+E:\OOP\itog\TryCatch\obj\Debug\net8.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfoInputs.cache
+E:\OOP\itog\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfo.cs
+E:\OOP\itog\TryCatch\obj\Debug\net8.0\TryCatch.csproj.CoreCompileInputs.cache
+E:\OOP\itog\TryCatch\obj\Debug\net8.0\TryCatch.dll
+E:\OOP\itog\TryCatch\obj\Debug\net8.0\refint\TryCatch.dll
+E:\OOP\itog\TryCatch\obj\Debug\net8.0\TryCatch.pdb
+E:\OOP\itog\TryCatch\obj\Debug\net8.0\TryCatch.genruntimeconfig.cache
+E:\OOP\itog\TryCatch\obj\Debug\net8.0\ref\TryCatch.dll

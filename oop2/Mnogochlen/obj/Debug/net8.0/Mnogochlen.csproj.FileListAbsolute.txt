@@ -1,0 +1,14 @@
+E:\OOP\itog\oop2\Mnogochlen\bin\Debug\net8.0\Mnogochlen.exe
+E:\OOP\itog\oop2\Mnogochlen\bin\Debug\net8.0\Mnogochlen.deps.json
+E:\OOP\itog\oop2\Mnogochlen\bin\Debug\net8.0\Mnogochlen.runtimeconfig.json
+E:\OOP\itog\oop2\Mnogochlen\bin\Debug\net8.0\Mnogochlen.dll
+E:\OOP\itog\oop2\Mnogochlen\bin\Debug\net8.0\Mnogochlen.pdb
+E:\OOP\itog\oop2\Mnogochlen\obj\Debug\net8.0\Mnogochlen.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\oop2\Mnogochlen\obj\Debug\net8.0\Mnogochlen.AssemblyInfoInputs.cache
+E:\OOP\itog\oop2\Mnogochlen\obj\Debug\net8.0\Mnogochlen.AssemblyInfo.cs
+E:\OOP\itog\oop2\Mnogochlen\obj\Debug\net8.0\Mnogochlen.csproj.CoreCompileInputs.cache
+E:\OOP\itog\oop2\Mnogochlen\obj\Debug\net8.0\Mnogochlen.dll
+E:\OOP\itog\oop2\Mnogochlen\obj\Debug\net8.0\refint\Mnogochlen.dll
+E:\OOP\itog\oop2\Mnogochlen\obj\Debug\net8.0\Mnogochlen.pdb
+E:\OOP\itog\oop2\Mnogochlen\obj\Debug\net8.0\Mnogochlen.genruntimeconfig.cache
+E:\OOP\itog\oop2\Mnogochlen\obj\Debug\net8.0\ref\Mnogochlen.dll

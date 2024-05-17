@@ -1,0 +1,14 @@
+E:\OOP\itog\VICHISLI\bin\Debug\net8.0\VICHISLI.exe
+E:\OOP\itog\VICHISLI\bin\Debug\net8.0\VICHISLI.deps.json
+E:\OOP\itog\VICHISLI\bin\Debug\net8.0\VICHISLI.runtimeconfig.json
+E:\OOP\itog\VICHISLI\bin\Debug\net8.0\VICHISLI.dll
+E:\OOP\itog\VICHISLI\bin\Debug\net8.0\VICHISLI.pdb
+E:\OOP\itog\VICHISLI\obj\Debug\net8.0\VICHISLI.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\VICHISLI\obj\Debug\net8.0\VICHISLI.AssemblyInfoInputs.cache
+E:\OOP\itog\VICHISLI\obj\Debug\net8.0\VICHISLI.AssemblyInfo.cs
+E:\OOP\itog\VICHISLI\obj\Debug\net8.0\VICHISLI.csproj.CoreCompileInputs.cache
+E:\OOP\itog\VICHISLI\obj\Debug\net8.0\VICHISLI.dll
+E:\OOP\itog\VICHISLI\obj\Debug\net8.0\refint\VICHISLI.dll
+E:\OOP\itog\VICHISLI\obj\Debug\net8.0\VICHISLI.pdb
+E:\OOP\itog\VICHISLI\obj\Debug\net8.0\VICHISLI.genruntimeconfig.cache
+E:\OOP\itog\VICHISLI\obj\Debug\net8.0\ref\VICHISLI.dll

@@ -1,0 +1,14 @@
+E:\OOP\itog\Nasledovaine\bin\Debug\net8.0\Nasledovaine.exe
+E:\OOP\itog\Nasledovaine\bin\Debug\net8.0\Nasledovaine.deps.json
+E:\OOP\itog\Nasledovaine\bin\Debug\net8.0\Nasledovaine.runtimeconfig.json
+E:\OOP\itog\Nasledovaine\bin\Debug\net8.0\Nasledovaine.dll
+E:\OOP\itog\Nasledovaine\bin\Debug\net8.0\Nasledovaine.pdb
+E:\OOP\itog\Nasledovaine\obj\Debug\net8.0\Nasledovaine.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\Nasledovaine\obj\Debug\net8.0\Nasledovaine.AssemblyInfoInputs.cache
+E:\OOP\itog\Nasledovaine\obj\Debug\net8.0\Nasledovaine.AssemblyInfo.cs
+E:\OOP\itog\Nasledovaine\obj\Debug\net8.0\Nasledovaine.csproj.CoreCompileInputs.cache
+E:\OOP\itog\Nasledovaine\obj\Debug\net8.0\Nasledovaine.dll
+E:\OOP\itog\Nasledovaine\obj\Debug\net8.0\refint\Nasledovaine.dll
+E:\OOP\itog\Nasledovaine\obj\Debug\net8.0\Nasledovaine.pdb
+E:\OOP\itog\Nasledovaine\obj\Debug\net8.0\Nasledovaine.genruntimeconfig.cache
+E:\OOP\itog\Nasledovaine\obj\Debug\net8.0\ref\Nasledovaine.dll

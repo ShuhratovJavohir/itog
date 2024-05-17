@@ -1,0 +1,14 @@
+E:\OOP\itog\KOMPLEKS\bin\Debug\net8.0\KOMPLEKS.exe
+E:\OOP\itog\KOMPLEKS\bin\Debug\net8.0\KOMPLEKS.deps.json
+E:\OOP\itog\KOMPLEKS\bin\Debug\net8.0\KOMPLEKS.runtimeconfig.json
+E:\OOP\itog\KOMPLEKS\bin\Debug\net8.0\KOMPLEKS.dll
+E:\OOP\itog\KOMPLEKS\bin\Debug\net8.0\KOMPLEKS.pdb
+E:\OOP\itog\KOMPLEKS\obj\Debug\net8.0\KOMPLEKS.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\itog\KOMPLEKS\obj\Debug\net8.0\KOMPLEKS.AssemblyInfoInputs.cache
+E:\OOP\itog\KOMPLEKS\obj\Debug\net8.0\KOMPLEKS.AssemblyInfo.cs
+E:\OOP\itog\KOMPLEKS\obj\Debug\net8.0\KOMPLEKS.csproj.CoreCompileInputs.cache
+E:\OOP\itog\KOMPLEKS\obj\Debug\net8.0\KOMPLEKS.dll
+E:\OOP\itog\KOMPLEKS\obj\Debug\net8.0\refint\KOMPLEKS.dll
+E:\OOP\itog\KOMPLEKS\obj\Debug\net8.0\KOMPLEKS.pdb
+E:\OOP\itog\KOMPLEKS\obj\Debug\net8.0\KOMPLEKS.genruntimeconfig.cache
+E:\OOP\itog\KOMPLEKS\obj\Debug\net8.0\ref\KOMPLEKS.dll
